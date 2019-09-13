@@ -1,9 +1,6 @@
 #STATA code for published article
-#Vadeboncoeur et al. 2015. A meta-analysis of weight gain in first year university students: is freshman 15 a myth? BMC Obesity
-#Background: This meta-analysis aimed to update the literature on the “Freshman 15” in the first year of university. We also aimed to explore weight gain in only those who gained weight and perform several subgroup analyses. Given adolescent weight gain is highly linked to overweight and obesity in adults, a better understanding of university student weight gain is crucial if we are to combat the rising adult obesity prevalence.
-#Methods: We conducted a search on six standard electronic databases (including PubMed, Embase, PsycInfo) from 1980 to 2014. Only peer reviewed articles with data from longitudinal studies were included. Screening was performed by two reviewers. The quality of papers was assessed and data extraction was done with a systematic approach.
 
-#Analysis: Meta-analysis of mean (95 % CI) weight change (kg) from baseline to follow-up; including only studies reporting standard errors. The overall mean weight change is 1.36 kg (CI: 1.15–1.57)
+#Analysis: Meta-analysis of mean (95 % CI) weight change (kg) from baseline to follow-up; including only studies reporting standard errors. The overall mean weight change is 1.36 kg (CI: 1.15â€“1.57)
 metan  wc_all  wc_all_sd_se, lcols(author year length n) sortby(year) random astext(70) textsize(105) boxsca(90) xlabel(-0.5,4) notable xsize(10) ysize(6) favours(Weight loss (kg) # Weight gain (kg))
 metan  wc_all  wc_all_sd_se, wgt(n) lcols(author year length n) sortby(year) astext(70) textsize(105) boxsca(90) xlabel(-0.5,4) notable xsize(10) ysize(6) favours(Weight loss # Weight gain)
 
@@ -56,7 +53,7 @@ tab rent2
 galbr  wc_all wc_all_sd_se, xlab id(author)
 galbr  wc_all  all_ses_corr, xlab id(author)
 
-#funnel plot complete + imputed
+#Analysis: Funnel plot 
 metafunnel  wc_all wc_all_sd_se, xlab(.4 .6 .8 1 1.2 1.5 2 3) xtitle (Weight Change)
 metafunnel  wc_all  all_ses_corr, xlab(.4 .6 .8 1 1.2 1.5 2 3) xtitle (Weight Change)
 
