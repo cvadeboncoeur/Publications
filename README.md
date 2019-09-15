@@ -8,6 +8,9 @@ This repository contains the code behind published articles which required analy
 
 **Methods**: We conducted a search on six standard electronic databases (including PubMed, Embase, PsycInfo) from 1980 to 2014. Only peer reviewed articles with data from longitudinal studies were included. Screening was performed by two reviewers. The quality of papers was assessed and data extraction was done with a systematic approach.
 
+**Results:** Thirty two studies were included and 22 studies (5549 students) were included in a pooled mean meta-analysisas they reported standard errors. The overall pooledmeanweightgainwas1.36kg(3lbs)(95%CI:1.15–1.57) over anaverageof5months.Amajorityofstudents,60.9%,gained weight during freshman year and these on average gained3.38 kg (7.5lbs) (95 % CI: 2.85–3.92).
+
+**Conclusion:** Freshman weight gain is an issue with almost two thirds of students gaining weight. Students who gainedweight, gained it at rates much faster than in the general population. Despite most universities having some healthpromotion policies, we denote a consistent weight gain in university students across several countries.
 
 ### Vadeboncoeur et al. 2017 BMC Obesity
 **Title of publication**: Freshman 15 in England: a longitudinalevaluation of first year university student’sweight change
