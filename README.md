@@ -9,7 +9,7 @@ This repository contains the code behind published articles which required analy
 **Methods**: We conducted a search on six standard electronic databases (including PubMed, Embase, PsycInfo) from 1980 to 2014. Only peer reviewed articles with data from longitudinal studies were included. Screening was performed by two reviewers. The quality of papers was assessed and data extraction was done with a systematic approach.
 
 
-###Vadeboncoeur et al. 2017 BMC Obesity
+### Vadeboncoeur et al. 2017 BMC Obesity
 **Title of publication**: Freshman 15 in England: a longitudinalevaluation of first year university student’sweight change
 
 **Background:** Weight change in first year university students, often referred to as‘Freshman 15’, has been shown tobe a common problem in North America. Studies have reported weight gain to be between 1 kg and 4 kg overthe academic year and a recent meta-analysis found a mean gain of 1.34 kg and that 61 % of students gainedweight. A limited number of studies have investigated weight change in England and large scale studies areneeded to understand better weight change trends and to conduct subgroup analyses. This is important in thecontext of rising obesity prevalence, especially as behaviours and unhealthy weight in early adulthood oftenremains over the lifetime.
