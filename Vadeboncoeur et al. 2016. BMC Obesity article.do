@@ -1,4 +1,4 @@
-*STATA code for published article - Vadeboncoeur et al. 20156
+*STATA code for published article - Vadeboncoeur et al. 2016
 
 *Table 1 in paper: Descriptive demographics of the longitudinal student sample for those answering the first term only (N= 311) andthose answering all time points (N= 215)
 tab Sex if Participate1==1&Participate2==1&Participate3==1&time==3 &!missing(T3_T1WD)
